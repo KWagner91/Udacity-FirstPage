@@ -1,5 +1,5 @@
 # Udacity-FirstPage
-Udacity Intro into Programming Nanodegree - First HTML/CSS Page
+##Udacity Intro into Programming Nanodegree - First HTML/CSS Page
 
-## Personal Webpage about any topic you like
-## Using various HTML elements and CSS styles
+1) Personal Webpage about any topic you like
+2) Using various HTML elements and CSS styles
