@@ -1,10 +1,10 @@
-# Udacity-FirstPage
+# HTML/CSS Homepage about the Benefits of Coding
 
-## Intro into Programming Nanodegree - First HTML/CSS Page
-
-Project requirements
-1) Personal Webpage about any topic you like
-2) Using various HTML elements and CSS styles
+First HTML/CSS page of the Udacity Course "Intro to Programming Nanodegree":
+> Your project will be a personal web page showing off all the skills you've learned so far! You can make your web page on any topic you'd like!
 
 
-### Open in any Webbrowser to View Project
+## Specifications
+
+- HTML validation and CSS W3 validation tests passed
+- Open in any browser of choice
